@@ -1,0 +1,33 @@
+div{
+  background-color: #cbf1f5;
+  border:solid;
+  border-width: 5px;
+  padding: 5px;
+  margin:10px;
+}
+body{
+  margin:0;
+}
+h1{
+
+    background-color: grey;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.middlecontainer{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  margin-left: 260px;
+  border: solid 20px;
+
+}
+.bottomcontainer{
+  height: 200px;
+  width: 200px;
+  background-color: pink;
+  margin-left: 500px;
+}
